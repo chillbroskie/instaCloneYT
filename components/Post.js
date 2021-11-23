@@ -125,7 +125,7 @@ function Post({id, username, userImg, img, caption}) {
             onClick={sendComment}
             className="font-semibold text-blue-400"
           >
-            Post
+            Post.
           </button>
         </form>
       )}
